@@ -1,7 +1,7 @@
 Package: sweepR
 Type: Package
 Title: 2022 Olympic Curling Scraper
-Version: 0.1.0
+Version: 0.1.1
 Author: person("Jeremy", "Brooks", role = c("aut","cre","dtc"))
 Description: This package is designed to allow easy parsing of my
     2022 Olympics curling data repo at github.com/jbrooksdata. The
@@ -11,5 +11,3 @@ Description: This package is designed to allow easy parsing of my
 License:
 Encoding: UTF-8
 LazyData: true
-Imports:
-    curl
