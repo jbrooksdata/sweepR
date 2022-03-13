@@ -1,0 +1,15 @@
+Package: sweepR
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: person("Jeremy", "Brooks", role = c("aut","cre","dtc"))
+Description: This package is designed to allow easy parsing of my
+    2022 Olympics curling data repo at github.com/jbrooksdata. The
+    four functions return player stats, team stats, overall
+    standings with team data, or squad roster information for the
+    men's, women's, or mixed doubles tournaments.
+License:
+Encoding: UTF-8
+LazyData: true
+Imports:
+    curl
