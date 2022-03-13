@@ -1,6 +1,6 @@
 Package: sweepR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: 2022 Olympic Curling Scraper
 Version: 0.1.0
 Author: person("Jeremy", "Brooks", role = c("aut","cre","dtc"))
 Description: This package is designed to allow easy parsing of my
