@@ -5,7 +5,7 @@
 load_standings("")
 }
 \description{
-Loads men's, women's, or mixed doubles team standings and stats from {https://github.com/jbrooksdata/2022-olympic-curling}
+Input options: "mens" "womens" or "mixed" - loads team standings and stats from {https://github.com/jbrooksdata/2022-olympic-curling}
 }
 \examples{
 load_standings("mens")

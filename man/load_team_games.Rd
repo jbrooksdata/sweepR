@@ -5,7 +5,7 @@
 load_team_games("")
 }
 \description{
-Loads men's, women's, or mixed doubles game logs from {https://github.com/jbrooksdata/2022-olympic-curling}
+Input options: "mens" "womens" or "mixed" - loads team game logs from {https://github.com/jbrooksdata/2022-olympic-curling}
 }
 \examples{
 load_team_games("mens")

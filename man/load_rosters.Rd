@@ -5,7 +5,7 @@
 load_rosters("")
 }
 \description{
-Loads men's, women's, or mixed doubles roster data from {https://github.com/jbrooksdata/2022-olympic-curling}
+Input options: "mens" "womens" or "mixed" - loads roster data from {https://github.com/jbrooksdata/2022-olympic-curling}
 }
 \examples{
 load_rosters("mens")

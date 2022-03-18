@@ -5,7 +5,7 @@
 load_player_games("")
 }
 \description{
-Loads men's, women's, or mixed doubles player game logs from {https://github.com/jbrooksdata/2022-olympic-curling}
+Input options: "mens" "womens" or "mixed" - loads player game logs from {https://github.com/jbrooksdata/2022-olympic-curling}
 }
 \examples{
 load_player_games("mens")
