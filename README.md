@@ -32,7 +32,7 @@ This will return the standings (wins, losses, points scored, etc.) from the mixe
 
 ## Other Notes
 
-- Browse [my Olympic curling data repo](https://github.com/jbrooksdata/2022-olympic-curling) for raw CSVs.
+- Browse [my Olympic curling data repo](https://github.com/jbrooksdata/2022-olympic-curling) for raw CSVs and source code for the data scrapers.
 - Check out [some data viz created using data from this project.](https://github.com/jbrooksdata/sweepR-dataviz)
 
 
